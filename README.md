@@ -25,6 +25,7 @@ A secure and modular core banking system built entirely in Go. Designed for high
 | Messaging    | Redis (for pub/sub and async jobs) |
 | Auth         | JWT / OAuth2     |
 | DevOps       | Docker, Taskfile, CI/CD-ready |
+| Serverless Functions | [OpenFaaS](https://openfaas.com) |
 
 ---
 
