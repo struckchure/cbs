@@ -4,13 +4,13 @@ A secure and modular core banking system built entirely in Go. Designed for high
 
 ## ✨ Features
 
-- 🔐 **User & Role Management** — Admins, Tellers, Customers, and Auditors
-- 🏦 **Account Management** — Multi-currency support, account statuses
-- 💸 **Transaction Engine** — Real-time transfers with balance checks
-- 📚 **Double-Entry Ledger** — Accurate financial accounting and reconciliation
-- ⏱ **Scheduled Transfers** — Future and recurring payments
-- 📊 **Dashboards & Reports** — Web UI built with Go + Templ
-- 📡 **API Layer** — RESTful APIs for external integration
+- [ ] 🔐 **User & Role Management** — Admins, Tellers, Customers, and Auditors
+- [ ] 🏦 **Account Management** — Multi-currency support, account statuses
+- [ ] 💸 **Transaction Engine** — Real-time transfers with balance checks
+- [ ] 📚 **Double-Entry Ledger** — Accurate financial accounting and reconciliation
+- [ ] ⏱ **Scheduled Transfers** — Future and recurring payments
+- [ ] 📊 **Dashboards & Reports** — Web UI built with Go + Templ
+- [ ] 📡 **API Layer** — RESTful APIs for external integration
 
 ---
 
