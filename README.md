@@ -106,4 +106,4 @@ This project is open to collaboration. Please see [CONTRIBUTING.md](CONTRIBUTING
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[MIT Non-Commercial License](LICENSE)
